@@ -1,4 +1,5 @@
-### Hi there 👋
+##### Data Science & Machine Learning enthusiast ● Student of Industrial Engineering
+
 
 <!--
 **Neptunel12/Neptunel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
